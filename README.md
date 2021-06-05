@@ -1,4 +1,4 @@
-# SMAI
+# Statistical-Methods-in-AI (SMAI)
 Repository for SMAI assignments and notes for the course taught by Vineet Gandhi
 
 - ### [NOTES]( https://github.com/Shivsharma779/SMAI/blob/main/Smai_notes.pdf "NOTES")
