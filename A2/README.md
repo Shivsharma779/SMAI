@@ -7,3 +7,10 @@
     - Hand Sign Dataset
     - Logistic Regression
     - One vs all & One vs One
+3. Q3:
+    - Titanic Dataset
+    - Data Cleaning & Logistic Regression
+4. Q4:
+    - MNIST dataset
+    - SVM derivation & implementation
+    - Using Non linear kernels
