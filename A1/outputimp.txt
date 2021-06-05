@@ -1,0 +1,57 @@
+UCSize==1
+TRUE Branch
+	BC==5
+	TRUE Branch
+		NN==1
+		TRUE Branch
+			2
+		FALSE Branch
+			4
+	FALSE Branch
+		BN==5.0
+		TRUE Branch
+			CT==4
+			TRUE Branch
+				4
+			FALSE Branch
+				2
+		FALSE Branch
+			2
+FALSE Branch
+	BN==1.0
+	TRUE Branch
+		MA==1
+		TRUE Branch
+			2
+		FALSE Branch
+			UCShape==2
+			TRUE Branch
+				2
+			FALSE Branch
+				UCShape==1
+				TRUE Branch
+					2
+				FALSE Branch
+					4
+	FALSE Branch
+		SECSize==2
+		TRUE Branch
+			UCShape==2
+			TRUE Branch
+				2
+			FALSE Branch
+				CT==4
+				TRUE Branch
+					2
+				FALSE Branch
+					4
+		FALSE Branch
+			Mitoses==1
+			TRUE Branch
+				BN==0.0
+				TRUE Branch
+					2
+				FALSE Branch
+					4
+			FALSE Branch
+				4
